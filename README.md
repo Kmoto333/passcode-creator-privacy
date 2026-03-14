@@ -1,6 +1,10 @@
-# PassCode Creator
+<h1 align="center">PassCode Creator</h1>
 
-## Privacy Policy
+<p align="center">
+Privacy Policy
+</p>
+
+---
 
 Last updated: 2026
 
@@ -10,42 +14,41 @@ PassCode Creator is a simple password generator designed to help users create st
 
 ## Data Collection
 
-PassCode Creator does not collect, store, transmit, or share any passwords or personal information entered or generated within the app.
+PassCode Creator does **not collect, store, transmit, or share passwords or personal information** entered or generated within the app.
 
-All password generation occurs locally on the user's device.
+All password generation occurs **locally on the user's device**.
 
 ---
 
 ## Advertising
 
-PassCode Creator displays advertisements provided by Google AdMob, a third-party advertising service operated by Google.
+PassCode Creator displays advertisements provided by **Google AdMob**, a third-party advertising service operated by Google.
 
-Google AdMob may automatically collect certain information from your device for advertising and analytics purposes, including:
+Google AdMob may collect certain information including:
 
-- Device identifiers (such as the advertising identifier)  
-- Advertising interaction data (such as ad impressions or clicks)  
-- App performance and diagnostic data  
+- Device identifiers (such as the advertising identifier)
+- Advertising interaction data (such as ad impressions or clicks)
+- App performance and diagnostic data
 
-This data collection is handled by Google and is subject to Google's privacy policies.
+Learn more:
 
-Learn more:  
 https://policies.google.com/privacy
 
 ---
 
 ## Third-Party Services
 
-PassCode Creator uses the following third-party services:
+PassCode Creator uses:
 
 - Google AdMob (advertising)
 
-These services may collect data in accordance with their own privacy policies.
+These services may collect data according to their own privacy policies.
 
 ---
 
 ## Data Storage
 
-PassCode Creator does not store any user-generated passwords, personal data, or account information on external servers.
+PassCode Creator does **not store any passwords or personal data on external servers**.
 
 ---
 
@@ -57,12 +60,12 @@ PassCode Creator does not knowingly collect personal information from children.
 
 ## Changes to This Policy
 
-This privacy policy may be updated occasionally. Updates will be reflected on this page.
+This policy may be updated occasionally. Updates will appear on this page.
 
 ---
 
 ## Support
 
-For support or questions about the app, please visit:
+For questions or support:
 
 https://kmoto333.github.io/passcode-creator-support/
