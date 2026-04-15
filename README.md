@@ -1,16 +1,16 @@
-# PassCode Creator
+# PassCode Creator — Privacy Policy
 
-## Privacy Policy
+**Last updated: April 2026**
 
-Last updated: 2026
-
-PassCode Creator is a password generator designed to help users create strong passwords directly on their device.
+PassCode Creator is a password generator and manager designed to help 
+users create strong passwords directly on their device.
 
 ---
 
 ## Data Collection
 
-PassCode Creator does not collect, transmit, or share passwords or personal information entered, generated, saved, or viewed within the app.
+PassCode Creator does not collect, transmit, or share passwords or 
+personal information entered, generated, saved, or viewed within the app.
 
 All password generation occurs locally on the user's device.
 
@@ -18,37 +18,52 @@ All password generation occurs locally on the user's device.
 
 ## Local Data Storage
 
-PassCode Creator may store the following data locally on the user's device only:
+PassCode Creator may store the following data locally on the user's 
+device only:
 
-- Up to 5 saved passwords
+- Up to 50 saved passwords (5 in the free version)
 - Up to 10 recently generated passwords in the History section
+- App theme preference and generator settings
 
-This data is stored only on the device and is never uploaded to external servers.
+This data is stored only on the device and is never uploaded to 
+external servers.
 
 ---
 
 ## Device Authentication
 
-PassCode Creator may use Apple's LocalAuthentication framework to protect access to saved passwords using the device passcode, Face ID, or Touch ID.
+PassCode Creator uses Apple's LocalAuthentication framework to protect 
+access to saved passwords using the device passcode, Face ID, or Touch ID.
 
-Biometric or passcode data is handled by Apple at the system level and is not collected, stored, or accessible by PassCode Creator.
+Biometric or passcode data is handled by Apple at the system level and 
+is not collected, stored, or accessible by PassCode Creator.
+
+---
+
+## In-App Purchases
+
+PassCode Creator offers a one-time non-consumable in-app purchase 
+(PassCode Premium). Purchase transactions are handled entirely by Apple 
+and the App Store. PassCode Creator does not collect or store any 
+payment information.
 
 ---
 
 ## Advertising
 
-PassCode Creator displays advertisements provided by Google AdMob, a third-party advertising service operated by Google.
+The free version of PassCode Creator displays advertisements provided 
+by Google AdMob.
 
-Google AdMob may automatically collect certain information from your device for advertising and analytics purposes, including:
+PassCode Creator requests **non-personalised ads only**. No App 
+Tracking Transparency (ATT) prompt is shown and no advertising 
+identifier (IDFA) is accessed.
 
-- Device identifiers (such as the advertising identifier)
-- Advertising interaction data (such as ad impressions or clicks)
-- App performance and diagnostic data
-
-This data collection is handled by Google and is subject to Google's privacy policies.
-
-Learn more:  
+Google AdMob may still collect certain technical information for 
+fraud prevention and analytics purposes. This is subject to 
+Google's privacy policy:  
 https://policies.google.com/privacy
+
+PassCode Premium removes all advertisements.
 
 ---
 
@@ -56,34 +71,30 @@ https://policies.google.com/privacy
 
 PassCode Creator uses the following third-party services:
 
-- Google AdMob (advertising)
+- **Google AdMob** — advertising (free version only)
+- **Apple StoreKit** — in-app purchase processing
 
-These services may collect data in accordance with their own privacy policies.
-
----
-
-## Data Storage
-
-PassCode Creator does not store any passwords, personal data, or account information on external servers.
-
-All saved passwords and password history remain on the user's device only.
+These services operate under their own privacy policies.
 
 ---
 
 ## Children's Privacy
 
-PassCode Creator does not knowingly collect personal information from children.
+PassCode Creator does not knowingly collect personal information 
+from children under the age of 13.
 
 ---
 
 ## Changes to This Policy
 
-This privacy policy may be updated occasionally. Updates will be reflected on this page.
+This privacy policy may be updated occasionally. Updates will be 
+reflected on this page with a revised date.
 
 ---
 
-## Support
+## Contact
 
-For support or questions about the app, please visit:
+For support or questions:  
+tkmotrikkmoto333@gmail.com
 
 https://kmoto333.github.io/passcode-creator-support/
